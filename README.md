@@ -135,6 +135,5 @@ open target/site/jacoco/index.html
 
 ## 🧑‍💻 Auteur
 
-**Ton Nom** – [https://mourtallafatydiawara-dev.fr/](https://mourtallafatydiawara-dev.fr/)  
-**Contact** – [mourtallafatydiawara@gmail.com](mailto:email@exemple.com)
+**mfaty** – [https://mourtallafatydiawara-dev.fr/](https://mourtallafatydiawara-dev.fr/)  
 
