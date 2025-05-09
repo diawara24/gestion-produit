@@ -29,7 +29,8 @@ Une API REST sécurisée construite avec **Spring Boot 3**, **JWT**, **Spring Se
 | Swagger (Springdoc) | Documentation API interactive           |
 | Prometheus       | Monitoring des métriques                      |
 | Grafana          | Visualisation des métriques                   |
-| JaCoCo           | Couverture de tests                           |
+
+
 
 ---
 
@@ -101,6 +102,13 @@ docker compose up -d
 
 ## ✅ Tests
 
+Avant d'exécuter les tests: changer le profile en test.
+
+Dans le ficher .env 
+```bash
+APP_MODE=test
+```
+
 ### Lancer tous les tests :
 
 ```bash
@@ -137,11 +145,6 @@ open target/site/jacoco/index.html
 
 ## 🧑‍💻 Auteur
 
-**Ton Nom** – [tonportfolio.com](#)  
-**Contact pro** – [email@exemple.com](mailto:email@exemple.com)
+**Ton Nom** – [mourtallafatydiawara-dev.fr/](#)  
+**Contact** – [mourtallafatydiawara@gmail.com](mailto:email@exemple.com)
 
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](./LICENSE) pour plus d’informations.
