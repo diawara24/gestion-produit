@@ -120,16 +120,6 @@ APP_MODE=test
 ```bash
 open target/site/jacoco/index.html
 ```
-
----
-
-## 🧪 Compteur personnalisé (Produits créés)
-
-- Micrometer compteur : `produits_crees_total`
-- Visible dans :
-  - Prometheus (`/actuator/prometheus`)
-  - Grafana (panel personnalisé)
-
 ---
 
 ## 💡 Exemples d'accès par rôle
@@ -145,6 +135,6 @@ open target/site/jacoco/index.html
 
 ## 🧑‍💻 Auteur
 
-**Ton Nom** – [mourtallafatydiawara-dev.fr/](#)  
+**Ton Nom** – [https://mourtallafatydiawara-dev.fr/](#)  
 **Contact** – [mourtallafatydiawara@gmail.com](mailto:email@exemple.com)
 
